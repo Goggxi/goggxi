@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Kotlin   3 hrs 53 mins   ███████████████████▓░░░░░   78.92 % 
+XML      1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.92 % 
 ```
 <!--END_SECTION:waka-->
