@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin     24 hrs 42 mins  ██████████████████████▒░░   89.46 % 
-XML        2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Groovy     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Java       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Kotlin     24 hrs 43 mins  █████████████████░░░░░░░░   68.46 % 
+Java       7 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+XML        3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Groovy     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
