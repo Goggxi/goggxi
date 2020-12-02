@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 17.00 am UTC or 06.00  UTC+8 
+    # Runs at 01.35 am UTC or 06.00  UTC+8 
     - cron: '0 22 * * *'
 
 jobs:
