@@ -1,4 +1,4 @@
-### Hi .. I Moh Rifkan 👋
+### Hi 👋
 <img src="https://github.com/Goggxi/goggxi/blob/main/bg.jpg?raw=true" alt="banner"><br />
 
 ## Play Code .. 💬🚀
