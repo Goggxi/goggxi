@@ -57,14 +57,13 @@ Sunday       26 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-XML                      15 mins             ████████████████████░░░░░   80.69% 
-Kotlin                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.31%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -85,5 +84,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Goggxi/Goggxi/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
