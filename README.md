@@ -57,13 +57,15 @@ Sunday       26 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     6 hrs 12 mins       ████████████████████████░   96.23% 
+Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 26 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 26 mins       █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +86,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Goggxi/Goggxi/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
