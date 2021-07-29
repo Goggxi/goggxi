@@ -12,7 +12,7 @@
 ## Play Code .. 💬🚀
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-133376%20lines%20of%20code-blue)
 
@@ -57,15 +57,16 @@ Sunday       26 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     6 hrs 12 mins       ████████████████████████░   96.23% 
-Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+Dart                     12 hrs 37 mins      ████████████████████████░   97.96% 
+Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 52 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 26 mins       █████████████████████████   100.0%
+Windows                  12 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -86,5 +87,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Goggxi/Goggxi/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
