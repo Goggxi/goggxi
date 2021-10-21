@@ -20,7 +20,7 @@
 
 > 🏆 269 Contributions in the Year 2021
  > 
-> 📦 239.1 kB Used in GitHub's Storage 
+> 📦 239.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,5 +86,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Goggxi/Goggxi/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
