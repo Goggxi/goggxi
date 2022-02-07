@@ -1,12 +1,16 @@
 name: Waka Readme
 
 on:
+  push:
+    branches: [main]
   schedule:
-    # Runs at 02.45 am UTC or 06.00  UTC+8 
-    - cron: '0 10 * * *'
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
