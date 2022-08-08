@@ -5,7 +5,7 @@
 
 [![Moh Rifkan GitHub stats](https://github-readme-stats.vercel.app/api?username=goggxi&show_icons=true&theme=dracula&custom_title=Goggxi%20Statistic%20🚀)](https://github.com/goggxi/goggxi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi)
 
 <!--START_SECTION:waka-->
 
