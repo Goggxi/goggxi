@@ -7,6 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi)
 
+## 📊 WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/goggxi/project/goggxi.svg)](https://wakatime.com/badge/user/goggxi/project/goggxi)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,8 +73,6 @@ JavaScript               6 repos             ██░░░░░░░░░�
 Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
-
-
 
 **Timeline**
 
