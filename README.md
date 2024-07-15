@@ -7,10 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi)
 
-## 📊 WakaTime Stats
-
-[![wakatime](https://wakatime.com/badge/user/goggxi/project/goggxi.svg)](https://wakatime.com/badge/user/goggxi/project/goggxi)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2040%20mins-blue)
 
