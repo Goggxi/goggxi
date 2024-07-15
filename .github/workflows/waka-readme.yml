@@ -2,9 +2,10 @@ name: README STATS UPDATE
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '0 0 * * *'  # Runs every day at midnight
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
    update-readme:
@@ -26,4 +27,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_LOC_CHART: "true"
           SHOW_PROJECTS: "false"
-          SHOW_PROFILE_VIEWS: "false"
+          SHOW_PROFILE_VIEWS: "true"
