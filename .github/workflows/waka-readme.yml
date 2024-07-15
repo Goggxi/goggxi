@@ -37,13 +37,3 @@ jobs:
           SHOW_LOC_CHART: "true"
           SHOW_PROJECTS: "true"
           SHOW_PROFILE_VIEWS: "true"
-
-      - name: Commit and Push Changes
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "Update WakaTime stats in README"
-          git push
