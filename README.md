@@ -3,9 +3,9 @@
 
 ## Play Code .. 💬🚀
 
-[![Moh Rifkan GitHub stats](https://github-readme-stats.vercel.app/api?username=goggxi&count_private=true&show_icons=true&theme=dracula&custom_title=Goggxi%20Statistic%20🚀)](https://github.com/goggxi/goggxi)
+<!-- [![Moh Rifkan GitHub stats](https://github-readme-stats.vercel.app/api?username=goggxi&count_private=true&show_icons=true&theme=dracula&custom_title=Goggxi%20Statistic%20🚀)](https://github.com/goggxi/goggxi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2040%20mins-blue)
@@ -82,3 +82,24 @@ Python                   1 repo              ░░░░░░░░░░░�
 
  Last Updated on 15/07/2024 05:04:34 UTC
 <!--END_SECTION:waka-->
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/goggxi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goggxi&theme=transparent" />
+  </a>
+  <a href="https://github.com/goggxi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=goggxi&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/goggxi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=goggxi&theme=transparent" />
+  </a>
+  <a href="https://github.com/goggxi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=10&exclude_repo=&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <!-- <br/>
+  <a href="https://github.com/goggxi">
+    <img src="https://komarev.com/ghpvc/?username=goggxi&color=blue&style=flat" />
+  </a> -->
+</p>
