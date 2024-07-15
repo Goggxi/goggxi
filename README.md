@@ -12,40 +12,40 @@
 [![wakatime](https://wakatime.com/badge/user/goggxi/project/goggxi.svg)](https://wakatime.com/badge/user/goggxi/project/goggxi)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 547.1 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2024
+> 🏆 88 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 66 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-🌆 Daytime                365 commits         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌃 Evening                551 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
-🌙 Night                  350 commits         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+🌆 Daytime                366 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌃 Evening                551 commits         ██████████░░░░░░░░░░░░░░░   38.91 % 
+🌙 Night                  350 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Tuesday                  218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Wednesday                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Friday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Sunday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Monday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Tuesday                  218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Wednesday                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Friday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 ```
 
 
@@ -58,6 +58,9 @@ Sunday                   157 commits         ███░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -74,10 +77,12 @@ Go                       2 repos             █░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
+
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 04:30:07 UTC
+ Last Updated on 15/07/2024 04:52:57 UTC
 <!--END_SECTION:waka-->
