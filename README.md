@@ -12,7 +12,7 @@
 [![wakatime](https://wakatime.com/badge/user/goggxi/project/goggxi.svg)](https://wakatime.com/badge/user/goggxi/project/goggxi)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,5 +84,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 05:02:47 UTC
+ Last Updated on 15/07/2024 05:04:34 UTC
 <!--END_SECTION:waka-->
