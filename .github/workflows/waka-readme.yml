@@ -28,5 +28,5 @@ jobs:
           SHOW_LANGUAGE: "true"
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_LOC_CHART: "true"
-          SHOW_PROJECTS: "true"
+          SHOW_PROJECTS: "false"
           SHOW_PROFILE_VIEWS: "true"
