@@ -53,16 +53,21 @@ Sunday                   157 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       44 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
+Markdown                 33 mins             ████████░░░░░░░░░░░░░░░░░   32.10 % 
+YAML                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████░░░░░░░░░░░░   52.27 % 
+GoLand                   50 mins             ████████████░░░░░░░░░░░░░   47.73 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+goggxi                   55 mins             █████████████░░░░░░░░░░░░   52.27 % 
+Learn                    50 mins             ████████████░░░░░░░░░░░░░   47.73 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +87,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 12:17:06 UTC
+ Last Updated on 16/07/2024 01:28:08 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
