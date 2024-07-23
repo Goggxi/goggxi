@@ -53,7 +53,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-       - name: Check for Empty Language Data
+      - name: Check for Empty Language Data
         run: |
           if [ -z "$(curl -s -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" "https://wakatime.com/api/v1/users/current/stats/last_7_days" | jq '.data.languages')" ]; then
             echo "No language data found."
