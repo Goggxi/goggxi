@@ -18,8 +18,6 @@
 
 > 📦 558.0 kB Used in GitHub's Storage 
  > 
-> 🏆 362 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 72 Public Repositories 
@@ -84,7 +82,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2024 01:45:32 UTC
+ Last Updated on 24/09/2024 01:47:56 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
