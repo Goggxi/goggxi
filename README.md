@@ -8,11 +8,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C357%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C357%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -26,24 +26,24 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                463 commits         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-🌃 Evening                688 commits         ██████████░░░░░░░░░░░░░░░   39.59 % 
-🌙 Night                  388 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌞 Morning                57 commits          ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+🌆 Daytime                83 commits          ██████████░░░░░░░░░░░░░░░   40.89 % 
+🌃 Evening                41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+🌙 Night                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Wednesday                257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Thursday                 271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Friday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Saturday                 187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Sunday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Thursday                 73 commits          █████████░░░░░░░░░░░░░░░░   35.96 % 
+Friday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
 
@@ -84,7 +84,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2024 02:22:02 UTC
+ Last Updated on 25/09/2024 02:22:45 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
