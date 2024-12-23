@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C797%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C798%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,18 +53,18 @@ Sunday                   180 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Python                   32 hrs 48 mins      ████████████████████████░   94.55 % 
-Markdown                 1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Dart                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   32 hrs 8 mins       ████████████████████████░   94.91 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Dart                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-PyCharm                  34 hrs 19 mins      █████████████████████████   98.92 % 
-VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+PyCharm                  33 hrs 4 mins       ████████████████████████░   97.69 % 
+VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Mac                      34 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,7 +84,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 02:30:09 UTC
+ Last Updated on 23/12/2024 01:40:48 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
