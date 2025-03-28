@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C211%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C211%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -17,6 +17,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 560.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 156 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,18 +53,18 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Python                   8 hrs 8 mins        █████████████████░░░░░░░░   66.98 % 
-HTML                     2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Dart                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   7 hrs 46 mins       █████████████████░░░░░░░░   67.43 % 
+HTML                     2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Dart                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 6 mins       ███████████████████████░░   91.31 % 
-VS Code                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+PyCharm                  10 hrs 28 mins      ███████████████████████░░   90.89 % 
+VS Code                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 
 💻 Operating System: 
-Mac                      12 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +84,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 02:01:25 UTC
+ Last Updated on 28/03/2025 01:46:01 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
