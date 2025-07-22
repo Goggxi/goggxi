@@ -18,8 +18,6 @@
 
 > 📦 731.5 kB Used in GitHub's Storage 
  > 
-> 🏆 378 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 75 Public Repositories 
@@ -79,7 +77,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 02:34:52 UTC
+ Last Updated on 22/07/2025 02:37:36 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
