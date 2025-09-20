@@ -8,15 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C532%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 733.7 kB Used in GitHub's Storage 
+> 📦 733.8 kB Used in GitHub's Storage 
  > 
 > 🏆 564 Contributions in the Year 2025
  > 
@@ -26,46 +24,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-🌆 Daytime                647 commits         ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-🌃 Evening                1069 commits        ██████████░░░░░░░░░░░░░░░   41.74 % 
-🌙 Night                  546 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  567 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 365 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Friday                   423 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Saturday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Sunday                   212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-Dart                     10 hrs 53 mins      ████████████████████████░   97.53 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🔥 Editors: 
-Cursor                   9 hrs 13 mins       █████████████████████░░░░   82.63 % 
-VS Code                  1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-
-💻 Operating System: 
-Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -83,7 +41,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 02:34:31 UTC
+ Last Updated on 20/09/2025 01:43:23 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
