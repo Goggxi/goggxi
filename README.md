@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C608%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C608%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -16,7 +16,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 734.2 kB Used in GitHub's Storage 
+> 📦 734.3 kB Used in GitHub's Storage 
  > 
 > 🏆 602 Contributions in the Year 2025
  > 
@@ -83,7 +83,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 11:14:12 UTC
+ Last Updated on 30/09/2025 11:33:51 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
