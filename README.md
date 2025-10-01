@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C609%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C621%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -53,17 +53,17 @@ Sunday                   229 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     50 hrs 10 mins      ███████████████████░░░░░░   77.78 % 
-SQL                      5 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-TypeScript               2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Dart                     53 hrs 52 mins      ███████████████████░░░░░░   77.06 % 
+SQL                      5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+TypeScript               4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Cursor                   64 hrs 30 mins      █████████████████████████   100.00 % 
+Cursor                   69 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      64 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      69 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -83,7 +83,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2025 16:00:03 UTC
+ Last Updated on 01/10/2025 16:20:02 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
