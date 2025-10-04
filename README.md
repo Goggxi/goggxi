@@ -8,6 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C641%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.0%20million%20lines%20of%20code-blue)
@@ -51,17 +53,17 @@ Sunday                   229 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     52 hrs 3 mins       ██████████████████░░░░░░░   74.00 % 
-TypeScript               8 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-SQL                      4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Bash                     1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Dart                     53 hrs 55 mins      ██████████████████░░░░░░░   71.36 % 
+TypeScript               9 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+SQL                      6 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Bash                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Other                    2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Cursor                   70 hrs 21 mins      █████████████████████████   100.00 % 
+Cursor                   75 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      70 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      75 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -81,7 +83,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 01:58:30 UTC
+ Last Updated on 04/10/2025 02:19:00 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
