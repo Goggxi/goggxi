@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C657%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C668%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -18,7 +18,7 @@
 
 > 📦 734.7 kB Used in GitHub's Storage 
  > 
-> 🏆 670 Contributions in the Year 2025
+> 🏆 671 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,17 +53,17 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     49 hrs 34 mins      ██████████████████░░░░░░░   72.07 % 
-TypeScript               9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-SQL                      5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Bash                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Other                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Dart                     47 hrs 55 mins      ██████████████████░░░░░░░   71.16 % 
+TypeScript               9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+SQL                      5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Bash                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Cursor                   68 hrs 47 mins      █████████████████████████   100.00 % 
+Cursor                   67 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      68 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      67 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -83,7 +83,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 16:01:55 UTC
+ Last Updated on 06/10/2025 16:21:51 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
