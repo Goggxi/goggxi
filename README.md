@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C680%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C680%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -18,7 +18,7 @@
 
 > 📦 734.7 kB Used in GitHub's Storage 
  > 
-> 🏆 679 Contributions in the Year 2025
+> 🏆 681 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,8 +30,8 @@
 
 ```text
 🌞 Morning                354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-🌆 Daytime                921 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-🌃 Evening                1291 commits        ██████████░░░░░░░░░░░░░░░   40.75 % 
+🌆 Daytime                922 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+🌃 Evening                1291 commits        ██████████░░░░░░░░░░░░░░░   40.74 % 
 🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -39,10 +39,10 @@
 ```text
 Monday                   316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 Tuesday                  731 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Wednesday                441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Thursday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 Friday                   595 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Saturday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 Sunday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 ```
 
@@ -83,7 +83,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2025 04:55:57 UTC
+ Last Updated on 08/10/2025 05:16:51 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
