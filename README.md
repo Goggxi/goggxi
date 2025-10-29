@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C767%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C768%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -53,17 +53,16 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     2 hrs 18 mins       ████████████████████░░░░░   80.46 % 
-SQL                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Java Properties          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Dart                     2 hrs 4 mins        ███████████████████░░░░░░   76.18 % 
+Java Properties          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+SQL                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Gradle Kotlin DSL        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 51 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -83,7 +82,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2025 16:20:44 UTC
+ Last Updated on 29/10/2025 16:39:44 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
