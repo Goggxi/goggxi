@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C778%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C782%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -53,16 +53,17 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     1 hr 16 mins        ████████████████░░░░░░░░░   62.71 % 
-Java Properties          33 mins             ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Dart                     3 hrs 15 mins       ███████████████░░░░░░░░░░   58.27 % 
+Markdown                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Java Properties          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 1 min         █████████████████████████   100.00 % 
+Cursor                   5 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +83,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 16:17:36 UTC
+ Last Updated on 12/11/2025 16:38:53 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
