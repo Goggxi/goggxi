@@ -12,7 +12,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.10%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,7 +79,7 @@ PLpgSQL                  2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 08:29:08 UTC
+ Last Updated on 01/01/2026 08:49:33 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
