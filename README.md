@@ -8,6 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C842%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.14%20million%20lines%20of%20code-blue)
@@ -24,6 +26,42 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                579 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+🌆 Daytime                932 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌃 Evening                1049 commits        ████████░░░░░░░░░░░░░░░░░   32.31 % 
+🌙 Night                  687 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   458 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  561 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Wednesday                461 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 524 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Friday                   541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -41,7 +79,7 @@ PLpgSQL                  2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 02:14:54 UTC
+ Last Updated on 03/01/2026 02:34:30 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
