@@ -24,6 +24,42 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                579 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+🌆 Daytime                932 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌃 Evening                1049 commits        ████████░░░░░░░░░░░░░░░░░   32.31 % 
+🌙 Night                  687 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   458 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  561 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Wednesday                461 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 524 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Friday                   541 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Saturday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -41,7 +77,7 @@ PLpgSQL                  2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 08:48:56 UTC
+ Last Updated on 03/01/2026 09:07:48 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
