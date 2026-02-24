@@ -12,13 +12,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.81%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 769.3 kB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,11 +65,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     34 repos            ████████░░░░░░░░░░░░░░░░░   32.38 % 
-TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-PLpgSQL                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Dart                     34 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
+TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+PLpgSQL                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 
@@ -79,7 +79,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 07:44:56 UTC
+ Last Updated on 24/02/2026 08:04:39 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
