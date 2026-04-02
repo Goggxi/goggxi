@@ -65,7 +65,7 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     36 repos            ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Dart                     37 repos            ████████░░░░░░░░░░░░░░░░░   33.94 % 
 TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
@@ -79,7 +79,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 02:03:12 UTC
+ Last Updated on 02/04/2026 02:25:31 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
