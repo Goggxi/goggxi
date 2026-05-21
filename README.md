@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C851%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C962%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,15 +53,17 @@ Sunday                   415 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ███████████░░░░░░░░░░░░░░   43.80 % 
-Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Git Config               42 mins             ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+TypeScript               3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.30 % 
+Markdown                 3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
+Git Config               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Windsurf                 2 hrs 38 mins       █████████████████████████   100.00 % 
+Windsurf                 8 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -81,7 +83,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 22:06:33 UTC
+ Last Updated on 21/05/2026 22:30:40 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
