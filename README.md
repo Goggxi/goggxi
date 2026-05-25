@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C962%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C962%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -26,46 +26,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                880 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-🌆 Daytime                1383 commits        ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌃 Evening                1315 commits        ████████░░░░░░░░░░░░░░░░░   30.48 % 
-🌙 Night                  736 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Tuesday                  754 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Wednesday                650 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 661 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   690 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Sunday                   439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
-Markdown                 3 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.36 % 
-Git Config               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Windsurf                 8 hrs 24 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      8 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -83,7 +43,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 16:25:22 UTC
+ Last Updated on 25/05/2026 16:49:02 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
