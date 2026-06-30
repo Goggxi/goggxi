@@ -53,16 +53,13 @@ Sunday                   599 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     5 mins              █████████████████████░░░░   84.99 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              ████████████████████████░   94.76 % 
-Antigravity IDE          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +79,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 16:42:38 UTC
+ Last Updated on 30/06/2026 17:09:39 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
