@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C094%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C096%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -53,13 +53,18 @@ Sunday                   608 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    24 mins             █████████░░░░░░░░░░░░░░░░   37.60 % 
+Dart                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              54 mins             █████████████████████░░░░   84.03 % 
+VS Code                  10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -79,7 +84,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 16:38:28 UTC
+ Last Updated on 11/07/2026 17:01:03 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
