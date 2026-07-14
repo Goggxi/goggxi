@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C108%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C108%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -16,7 +16,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 776.4 kB Used in GitHub's Storage 
+> 📦 776.5 kB Used in GitHub's Storage 
  > 
 > 🏆 682 Contributions in the Year 2026
  > 
@@ -84,7 +84,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 05:16:55 UTC
+ Last Updated on 14/07/2026 05:41:54 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
