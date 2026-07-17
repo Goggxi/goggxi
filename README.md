@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C118%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C122%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -53,18 +53,18 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 10 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
-TypeScript               7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Dart                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Markdown                 11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   41.58 % 
+TypeScript               8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Dart                     3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 15 mins      ████████████████████░░░░░   81.67 % 
-VS Code                  4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Claude Code              22 hrs 25 mins      ████████████████████░░░░░   81.65 % 
+VS Code                  5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 
 💻 Operating System: 
-Mac                      23 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,7 +84,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 16:46:16 UTC
+ Last Updated on 17/07/2026 17:13:57 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
