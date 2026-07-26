@@ -53,18 +53,18 @@ Sunday                   617 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               27 hrs 38 mins      ████████████████░░░░░░░░░   62.06 % 
-Dart                     6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Markdown                 5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Other                    2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               22 hrs 43 mins      ███████████████░░░░░░░░░░   60.58 % 
+Dart                     6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 57 mins      ████████████████████████░   94.22 % 
-VS Code                  2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Claude Code              35 hrs 28 mins      ████████████████████████░   94.58 % 
+VS Code                  2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-Mac                      44 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,7 +84,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 12:24:21 UTC
+ Last Updated on 26/07/2026 03:44:55 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
