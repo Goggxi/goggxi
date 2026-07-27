@@ -8,7 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C211%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C176%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -67,6 +69,29 @@ VS Code                  1 hr 51 mins        ██░░░░░░░░░�
 Mac                      30 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 hrs 44 mins (97.41%)
+
+✍️ 86,019 lines written by AI, 20 lines written by hand (99.98% AI-written)
+
+🔤 1,001,585,539 Input Tokens, 5,290,515 Output Tokens
+
+💵 $5150.59 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 181 AI Prompts
+
+Opus                     87,589 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,280 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -84,7 +109,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 15:35:14 UTC
+ Last Updated on 27/07/2026 15:59:53 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
