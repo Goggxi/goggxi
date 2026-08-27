@@ -8,19 +8,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C228%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C230%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-428%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-431%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 780.7 kB Used in GitHub's Storage 
  > 
-> 🏆 881 Contributions in the Year 2026
+> 🏆 884 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,21 +31,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1442 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-🌆 Daytime                2070 commits        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-🌃 Evening                1926 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-🌙 Night                  1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+🌞 Morning                1407 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+🌆 Daytime                2030 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌃 Evening                1917 commits        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌙 Night                  1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   866 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Tuesday                  1141 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                947 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Thursday                 966 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Friday                   940 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Sunday                   733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Monday                   844 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  1115 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Wednesday                931 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 955 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Friday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Saturday                 860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Sunday                   730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 ```
 
 
@@ -55,40 +55,40 @@ Sunday                   733 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    10 hrs 26 mins      ██████████████░░░░░░░░░░░   56.83 % 
-TypeScript               4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Dart                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Other                    12 hrs 6 mins       ███████████████░░░░░░░░░░   60.37 % 
+TypeScript               4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Dart                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 57 mins      ██████████████████████░░░   86.90 % 
-VS Code                  2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Claude Code              17 hrs 16 mins      ██████████████████████░░░   86.04 % 
+VS Code                  2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 
 💻 Operating System: 
-Mac                      18 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 20 mins (94.36%)
+⏱ AI Coding Time: 18 hrs 54 mins (94.2%)
 
-✍️ 758 lines written by AI, 7 lines written by hand (99.08% AI-written)
+✍️ 631 lines written by AI, 2,158 lines written by hand (22.62% AI-written)
 
-🔤 9,988,416 Input Tokens, 1,510,235 Output Tokens
+🔤 10,650,245 Input Tokens, 1,721,475 Output Tokens
 
-💵 $499.63 Estimated AI Cost This Week
+💵 $559.41 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 213 AI Prompts
+🧠 15 AI Sessions, 213 AI Prompts
 
-Opus                     787 lines           █████████████████████████   100.00 % 
+Opus                     657 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.08% of written lines came from AI
-📚 Verbose Prompter — average 1,854 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 70.3% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.62% of written lines came from AI
+📚 Verbose Prompter — average 2,319 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 86.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -108,7 +108,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 15:13:01 UTC
+ Last Updated on 27/08/2026 08:50:46 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
