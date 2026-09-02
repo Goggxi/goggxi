@@ -14,7 +14,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,21 +31,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1453 commits        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌆 Daytime                2145 commits        ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌃 Evening                1943 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌙 Night                  1039 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌞 Morning                1442 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌆 Daytime                2139 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌃 Evening                1943 commits        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+🌙 Night                  1025 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   873 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Tuesday                  1141 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Wednesday                973 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Thursday                 1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   979 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Saturday                 878 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Sunday                   733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Monday                   870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Tuesday                  1125 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                971 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Thursday                 1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Friday                   975 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 877 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Sunday                   729 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 ```
 
 
@@ -94,11 +94,11 @@ Opus                     11,393 lines        ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     35 repos            ████████░░░░░░░░░░░░░░░░░   32.11 % 
-TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-PLpgSQL                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Dart                     34 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+PLpgSQL                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -108,7 +108,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 17:15:55 UTC
+ Last Updated on 02/09/2026 17:21:07 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
