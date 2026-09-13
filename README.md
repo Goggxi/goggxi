@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C276%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C278%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-493%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-495%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,42 +55,42 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Markdown                 7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Other                    6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-TypeScript               6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Dart                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Markdown                 8 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Other                    6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+TypeScript               6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Dart                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Text                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 5 mins       ███████████████████████░░   93.19 % 
-VS Code                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Claude Code              26 hrs 19 mins      ███████████████████████░░   93.82 % 
+VS Code                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 💻 Operating System: 
-Mac                      26 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 21 mins (97.9%)
+⏱ AI Coding Time: 27 hrs 30 mins (98.04%)
 
-✍️ 9,811 lines written by AI, 70 lines written by hand (99.29% AI-written)
+✍️ 11,892 lines written by AI, 70 lines written by hand (99.41% AI-written)
 
-🔤 12,510,069 Input Tokens, 1,714,502 Output Tokens
+🔤 13,608,563 Input Tokens, 1,775,440 Output Tokens
 
-💵 $526.95 Estimated AI Cost This Week
+💵 $585.31 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 269 AI Prompts
+🧠 16 AI Sessions, 276 AI Prompts
 
-Opus                     9,916 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     11,997 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
-📚 Verbose Prompter — average 4,685 characters per prompt
+🤖 AI-Driven — 99.41% of written lines came from AI
+📚 Verbose Prompter — average 4,588 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -110,7 +110,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 16:29:56 UTC
+ Last Updated on 13/09/2026 16:55:02 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
