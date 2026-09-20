@@ -55,41 +55,40 @@ Sunday                   744 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.87 % 
-Other                    4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Markdown                 2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Python                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript               9 hrs 2 mins        █████████████░░░░░░░░░░░░   50.05 % 
+Other                    3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Python                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 54 mins      ██████████████████████░░░   90.00 % 
-VS Code                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Claude Code              16 hrs 4 mins       ██████████████████████░░░   89.03 % 
+VS Code                  1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 💻 Operating System: 
-Mac                      19 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 38 mins (93.76%)
+⏱ AI Coding Time: 16 hrs 49 mins (93.16%)
 
-✍️ 19,136 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 17,055 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 14,712,597 Input Tokens, 2,198,388 Output Tokens
+🔤 12,890,703 Input Tokens, 2,104,770 Output Tokens
 
-💵 $551.56 Estimated AI Cost This Week
+💵 $478.23 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 243 AI Prompts
+🧠 36 AI Sessions, 227 AI Prompts
 
-Opus                     19,229 lines        █████████████████████████   100.00 % 
+Opus                     17,148 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,977 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 1,871 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
@@ -110,7 +109,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 16:48:02 UTC
+ Last Updated on 20/09/2026 17:11:31 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
