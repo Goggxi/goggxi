@@ -28,69 +28,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1497 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-🌆 Daytime                2274 commits        ████████░░░░░░░░░░░░░░░░░   33.25 % 
-🌃 Evening                2006 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-🌙 Night                  1063 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Tuesday                  1170 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Wednesday                1010 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Friday                   1019 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Saturday                 947 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Sunday                   750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-TypeScript               8 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.81 % 
-Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Other                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
-🔥 Editors: 
-Claude Code              16 hrs 36 mins      ██████████████████████░░░   88.61 % 
-VS Code                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-
-💻 Operating System: 
-Mac                      18 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 hrs 52 mins (95.4%)
-
-✍️ 15,174 lines written by AI, 2 lines written by hand (99.99% AI-written)
-
-🔤 9,332,837 Input Tokens, 2,136,137 Output Tokens
-
-💵 $413.80 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 174 AI Prompts
-
-Opus                     15,248 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,925 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -108,7 +45,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 16:37:03 UTC
+ Last Updated on 26/09/2026 17:03:22 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
