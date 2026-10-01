@@ -95,7 +95,7 @@ Opus                     7,951 lines         ███████████�
 
 ```text
 Dart                     33 repos            ████████░░░░░░░░░░░░░░░░░   30.28 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 PLpgSQL                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
@@ -108,7 +108,7 @@ PLpgSQL                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 21:16:35 UTC
+ Last Updated on 01/10/2026 21:21:11 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
