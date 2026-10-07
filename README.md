@@ -92,8 +92,14 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Dart** 
 
+```text
+Dart                     27 repos            ████████░░░░░░░░░░░░░░░░░   30.68 % 
+TypeScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+PLpgSQL                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
@@ -103,7 +109,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 07:37:38 UTC
+ Last Updated on 07/10/2026 07:38:21 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
