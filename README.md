@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goggxi&langs_count=8&layout=compact&show_icons=true&theme=dracula)](https://github.com/goggxi/goggxi) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C370%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C376%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-602%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-608%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,41 +55,45 @@ Sunday                   890 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     21 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Markdown                 20 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-TypeScript               9 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Other                    9 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-JavaScript               5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Dart                     18 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Markdown                 13 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+TypeScript               9 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Other                    7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JavaScript               5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 🔥 Editors: 
-Claude Code              67 hrs 20 mins      ████████████████████████░   94.34 % 
-VS Code                  4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Claude Code              54 hrs 25 mins      ███████████████████████░░   90.86 % 
+Cursor                   2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+VS Code                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Agent                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Mac                      71 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      59 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 12 mins (98.36%)
+⏱ AI Coding Time: 59 hrs 20 mins (99.06%)
 
-✍️ 65,098 lines written by AI, 242 lines written by hand (99.63% AI-written)
+✍️ 62,425 lines written by AI, 200 lines written by hand (99.68% AI-written)
 
-🔤 46,796,880 Input Tokens, 13,757,912 Output Tokens
+🔤 43,974,129 Input Tokens, 11,966,857 Output Tokens
 
-💵 $1402.51 Estimated AI Cost This Week
+💵 $1305.22 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 382 AI Prompts
+🧠 20 AI Sessions, 354 AI Prompts
 
-Opus                     65,314 lines        █████████████████████████   100.00 % 
+Opus                     58,319 lines        ███████████████████████░░   92.77 % 
+Fable                    3,355 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Grok                     1,191 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 3,279 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.38% of changed lines were hand-edited
+🤖 AI-Driven — 99.68% of written lines came from AI
+📚 Verbose Prompter — average 2,649 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -109,7 +113,7 @@ PLpgSQL                  2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Goggxi/Goggxi/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 16:07:58 UTC
+ Last Updated on 09/10/2026 16:13:19 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub stats
