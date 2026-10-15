@@ -9,7 +9,7 @@
 ### Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C400%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C407%20hrs%203%20mins-blue?style=flat)
 
 **I Mostly Code in Dart** 
 
