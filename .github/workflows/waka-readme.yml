@@ -45,8 +45,9 @@ name: README STATS UPDATE
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight
-  push:
-    branches: [ main ]
+  # No `push` trigger: the bot's own commit (pushed with GH_TOKEN) would
+  # re-trigger this workflow and loop forever. Run manually from the Actions tab.
+  workflow_dispatch:
 
 jobs:
    update-readme:
