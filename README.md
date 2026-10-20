@@ -29,7 +29,7 @@ See all projects and my full experience on my [portfolio](https://goggxi.github.
 ### 📊 Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C423%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C429%20hrs%2032%20mins-blue?style=flat)
 
 **I Mostly Code in Dart** 
 
